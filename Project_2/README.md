@@ -3,7 +3,7 @@ Steps:
 2. $ java SimulationGUI
 
 Description: This project simulates a population of Tasmanian Devils and their behavior.  With various population sizes, grid sizes,
-and whether or not there is a road in the grid (all specified by the user once SimulationGUI has been run), we can see hoe quickly
+and whether or not there is a road in the grid (all specified by the user once SimulationGUI has been run), we can see how quickly
 it will take the entire population of Tasmanian Devils to become infected with Road Runnder Disease (RRD; transmitted by touch).
 Each Devil is created in a random location on the hex grid, with a random hex set as its destination.  When two Devils cross paths,
 there is an 80% chance the healthy one will get infected (if more than one land on the same spot, there is an 80% chance for each of
